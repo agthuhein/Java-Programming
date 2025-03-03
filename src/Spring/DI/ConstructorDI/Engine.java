@@ -1,4 +1,4 @@
-package src.Spring.SetterDI;
+package src.Spring.DI.ConstructorDI;
 
 public class Engine {
     public void Start(){

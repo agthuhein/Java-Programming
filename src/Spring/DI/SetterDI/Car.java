@@ -1,4 +1,4 @@
-package src.Spring.SetterDI;
+package src.Spring.DI.SetterDI;
 
 public class Car {
     private Engine engine;

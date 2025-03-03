@@ -1,4 +1,4 @@
-package src.Spring.ConstructorDI;
+package src.Spring.DI.ConstructorDI;
 
 public class Car {
     private Engine engine;

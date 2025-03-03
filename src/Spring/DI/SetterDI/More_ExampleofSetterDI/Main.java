@@ -1,4 +1,4 @@
-package src.Spring.SetterDI.More_ExampleofSetterDI;
+package src.Spring.DI.SetterDI.More_ExampleofSetterDI;
 
 public class Main {
     public static void main(String[] args) {
